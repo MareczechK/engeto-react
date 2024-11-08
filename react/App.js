@@ -1,5 +1,8 @@
 /* Marek Kopička
 m.kopicka@seznam.cz
+Discord: 
+Marek K
+norm9012
 */
 
 /* Nefunguje správně stylování, ale odkaz zde: 
