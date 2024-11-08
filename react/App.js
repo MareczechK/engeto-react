@@ -1,5 +1,10 @@
-/* Marek Kopička */
+/* Marek Kopička
+m.kopicka@seznam.cz
+*/
 
+/* Nefunguje správně stylování, ale odkaz zde: 
+https://jazzy-pika-ad0be4.netlify.app/
+bohužel mi nešlo nahrát celý file na github */
 
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import SharedLayout from "./pages/SharedLayout.js"
